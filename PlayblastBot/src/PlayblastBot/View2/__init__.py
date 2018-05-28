@@ -1,0 +1,2 @@
+from playblast_bot_manager_view2 import Ui_Dialog_PlayblastBotManager
+from playbast_bot_slave_view2 import Ui_Dialog_PlayblastBotSlave

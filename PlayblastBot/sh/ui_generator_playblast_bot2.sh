@@ -1,0 +1,2 @@
+/usr/autodesk/maya2018/bin/mayapy /usr/autodesk/maya2018/bin/pyside2-uic ../ui/playbast_bot_slave.ui > ../src/PlayblastBot/View2/playbast_bot_slave_view2.py && sed -i 1,8d ../src/PlayblastBot/View2/playbast_bot_slave_view2.py
+/usr/autodesk/maya2018/bin/mayapy /usr/autodesk/maya2018/bin/pyside2-uic ../ui/playblast_bot_manager.ui > ../src/PlayblastBot/View2/playblast_bot_manager_view2.py && sed -i 1,8d ../src/PlayblastBot/View2/playblast_bot_manager_view2.py
